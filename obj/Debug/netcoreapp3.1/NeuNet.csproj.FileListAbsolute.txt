@@ -1,0 +1,13 @@
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.exe
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.deps.json
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.runtimeconfig.json
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.runtimeconfig.dev.json
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.dll
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\bin\Debug\netcoreapp3.1\NeuNet.pdb
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.csprojAssemblyReference.cache
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.AssemblyInfoInputs.cache
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.AssemblyInfo.cs
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.csproj.CoreCompileInputs.cache
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.dll
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.pdb
+C:\Users\emreg\Desktop\NeuralNet\NeuNet\NeuNet\obj\Debug\netcoreapp3.1\NeuNet.genruntimeconfig.cache
